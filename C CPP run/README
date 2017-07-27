@@ -1,0 +1,15 @@
+
+Run C or C++ directly from the terminal
+
+
+How to.. 
+ 1. Download the script
+ 2. Put the script where you want to be. [Preferably in the path where your c or c++ code resides]
+ 3. After typing your C or C++ code file save it.
+ 4. Now on terminal type 
+        ./run.sh [filename]
+ 5. It will compile and run the code.
+ 
+Note.
+ 1. Remember to type the full file name
+ 2. case sensitive.
