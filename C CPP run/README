@@ -18,3 +18,12 @@ Note.
  
     cpp for C++ code
     c for C code
+
+Example:
+  for the test.cpp in the directory
+  
+  `./run.sh test.cpp cpp`
+  
+  will produce the result 
+  
+  "Test Done"
